@@ -1,2 +1,1 @@
-# 4-card-remake
-frontend mentor i s bad
+# 4-card
